@@ -15,6 +15,10 @@ This is a page that I made with eleventy
 - minimal snow on ground
 - silly
 
+## Pros
+- Nice!
+- Warm!
+
 ## Cons
-- Weirdly Complicated
-- Too Many Features?
+- Maybe Too Nice?
+- Too Warm?
