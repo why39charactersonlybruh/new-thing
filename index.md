@@ -14,3 +14,7 @@ This is a page that I made with eleventy
 - blue skies
 - minimal snow on ground
 - silly
+
+## Cons
+- Weirdly Complicated
+- Too Many Features?
