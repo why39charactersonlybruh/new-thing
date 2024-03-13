@@ -22,3 +22,4 @@ This is a page that I made with eleventy
 ## Cons
 - Maybe Too Nice?
 - Too Warm?
+- Too hot?
