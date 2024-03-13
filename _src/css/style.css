@@ -5,3 +5,34 @@ body{
      text-align: center;
      padding-top: 1rem;
 }
+.main-header {
+     background-color: #333; /* Header background color */
+     color: #fff; /* Text color */
+     padding: 20px; /* Padding around header content */
+     text-align: center; /* Aligning content to center */
+ }
+ 
+ /* Styling the navigation */
+ .main-header nav ul {
+     list-style: none; /* Removing default list styles */
+ }
+ 
+ .main-header nav ul li {
+     display: inline-block; /* Making list items display inline */
+     margin-right: 20px; /* Adding space between list items */
+ }
+ 
+ .main-header nav ul li:last-child {
+     margin-right: 0; /* Removing margin from the last list item */
+ }
+ 
+ .main-header nav ul li a {
+     color: #fff; /* Text color for navigation links */
+     text-decoration: none; /* Removing underline from links */
+     font-weight: bold; /* Making the font bold */
+     transition: color 0.3s; /* Adding smooth color transition on hover */
+ }
+ 
+ .main-header nav ul li a:hover {
+     color: #ffd700; /* Changing text color on hover */
+ }
