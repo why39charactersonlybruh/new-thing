@@ -5,6 +5,9 @@ body{
      text-align: center;
      padding-top: 1rem;
 }
-.hello img{
+h1{
+     font-size: x-large;
+}
+.basketball{
      width: 10%;
 }
