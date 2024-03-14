@@ -11,6 +11,7 @@ ul{
      align-items: center;
      font-size: x-large;
      background-size: cover;
+     padding: 10vw;
 }
 li{
      float: left;
