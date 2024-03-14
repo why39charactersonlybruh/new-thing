@@ -9,9 +9,12 @@ header{
      display: flex;
      background-color: crimson;  
      align-items: center;
-     font-size: x-large;
-     background-size: cover;
+     display: flex;
+     padding: 0 15vw;
 }
+.site-title{
+     margin: 0;
+ }
 header a{
      text-decoration: none;
      color:azure;
