@@ -9,7 +9,7 @@ This is a page that I made with eleventy
 
 ## Random Basketball Facts...
 
-James Naismith created basketball in 1891, he is canadian.
+<ul>James Naismith created basketball in 1891, he is canadian.</ul>
 Dennis Rodman once illegally married himself
 Gerald Green has 9 fingers
 minimal snow on ground
