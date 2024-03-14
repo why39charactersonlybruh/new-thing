@@ -9,5 +9,5 @@ layout: "page.njk"
 ## You will also find lots of random basketball facts here!
 
 <div class="hello">
-     <img src="bball.jpg" alt="basketball">
+     <img src="../img/bball.jpg" alt="basketball">
 </div>
