@@ -6,12 +6,11 @@ body{
      padding-top: 1rem;
 }
 header{
-     display: flex;
+     display: block;
      background-color: crimson;  
      align-items: center;
      font-size: x-large;
      background-size: cover;
-     display: block;
 }
 header a{
      text-decoration: none;
