@@ -7,19 +7,19 @@ layout: "page.njk"
 
 This is a page that I made with eleventy
 
-## Nice weather outside today eh?
+## Random Basketball Facts...
 
-- sunny
-- warm
-- blue skies
-- minimal snow on ground
-- silly
+James Naismith created basketball in 1891, he is canadian.
+Dennis Rodman once illegally married himself
+Gerald Green has 9 fingers
+minimal snow on ground
+silly
 
 ## Pros
 - Nice!
 - Warm!
 
 ## Cons
-- Maybe Too Nice?
-- Too Warm?
-- Too hot?
+Maybe Too Nice?
+Too Warm?
+Too hot?
