@@ -23,6 +23,9 @@ li a{
      padding: 25px;
      text-decoration: none;
 }
+li a:hover{
+     color: forestgreen;
+}
 h1{
      font-size: 5rem;
 }
