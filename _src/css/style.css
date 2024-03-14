@@ -13,6 +13,13 @@ header{
      font-size: large;
      background-size: cover;  
 }
+header a{
+     text-decoration: none;
+     color: black;
+     background-color: white;
+     padding-left: 0.5vw;
+     padding-right: 0.5vw;
+ }
 h1{
      font-size: 5rem;
 }
