@@ -7,10 +7,8 @@ layout: "page.njk"
 
 This is a page that I made with eleventy
 
-<div class="fax">
-<p>Random Basketball Facts</p>
+# Random Basketball Facts
+## James Naismith created basketball in 1891, he is canadian.
+## Dennis Rodman once illegally married himself illegally.
+## Gerald Green has 9 fingers.
 
-<ul>James Naismith created basketball in 1891, he is canadian.</ul>
-<ul>Dennis Rodman once illegally married himself illegally.</ul>
-<ul>Gerald Green has 9 fingers.</ul>
-<div>
