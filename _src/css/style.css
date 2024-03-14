@@ -12,6 +12,7 @@ ul{
      font-size: x-large;
      background-size: cover;
      padding: 1.2vw;
+     margin: 0;
 }
 
 li a{
@@ -20,15 +21,10 @@ li a{
      text-align: left;
      padding: 25px;
      text-decoration: none;
-}
-li a:hover{
-     color: forestgreen;
+     margin: 0;
 }
 h1{
      font-size: 5rem;
-}
-.hello img{
-     width: 10%;
 }
 .contact{
      padding-top: 8in;
