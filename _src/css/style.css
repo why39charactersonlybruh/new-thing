@@ -7,8 +7,7 @@ body{
 }
 ul{
      display: flex;
-     background-color: black;
-     color: aliceblue;  
+     background-color: black; 
      align-items: center;
      font-size: x-large;
      background-size: cover;
@@ -16,6 +15,13 @@ ul{
 }
 li{
      float: left;
+}
+li a{
+     display: block;
+     color: aliceblue;
+     text-align: left;
+     padding: 25px;
+     text-decoration: none;
 }
 h1{
      font-size: 5rem;
