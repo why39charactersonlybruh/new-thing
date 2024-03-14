@@ -27,15 +27,3 @@ h1{
 .contact{
      padding-top: 8in;
 }
-.fax{
-     text-align: left;
-     padding-left: 25em;
-     font-size: x-large;
-}
-footer{
-     display: flex;
-     background-color: crimson;  
-     align-items: center;
-     font-size: x-large;
-     background-size: cover;
-}
