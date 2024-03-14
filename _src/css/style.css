@@ -32,3 +32,10 @@ h1{
      padding-left: 25em;
      font-size: x-large;
 }
+footer{
+     display: flex;
+     background-color: crimson;  
+     align-items: center;
+     font-size: x-large;
+     background-size: cover;
+}
