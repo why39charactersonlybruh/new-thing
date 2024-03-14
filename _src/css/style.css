@@ -6,12 +6,12 @@ body{
      padding-top: 1rem;
 }
 header{
+     color: white;
      display: flex;
-     padding: 0;
-     background-color: crimson;  
      align-items: center;
-     font-size: x-large;
-     background-size: cover;
+     padding: 0 10vw;
+     height: 10vw;
+     font-size: xx-large;
 }
 header a{
      text-decoration: none;
