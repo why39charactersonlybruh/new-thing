@@ -13,9 +13,7 @@ ul{
      background-size: cover;
      padding: 1.2vw;
 }
-li{
-     float: left;
-}
+
 li a{
      display: block;
      color: white;
@@ -34,4 +32,8 @@ h1{
 }
 .contact{
      padding-top: 8in;
+}
+.basketball{
+     width: 15%;
+     border-radius: 50%;
 }
