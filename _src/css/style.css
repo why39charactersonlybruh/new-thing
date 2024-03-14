@@ -17,7 +17,6 @@ ul{
 
 li a{
      display: block;
-     color: white;
      text-align: left;
      padding: 25px;
      text-decoration: none;
@@ -28,7 +27,7 @@ h1{
 }
 .contact{
      padding-top: 8in;
-     padding-bottom: 1in;
+     padding-bottom: 5in;
 }
 .basketball{
      padding-top: 3;
