@@ -5,7 +5,6 @@ layout: "page.njk"
 
 # BBALL KNOWLEDGE FOR YOU
 
-This is a page that I made with eleventy
 
 # Random Basketball Facts
 ## James Naismith created basketball in 1891, he is canadian.
