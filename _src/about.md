@@ -8,6 +8,4 @@ layout: "page.njk"
 ## This site was made with 11ty using Markdown and Nunjucks
 ## You will also find lots of random basketball facts here!
 
-<div class="hello">
-     <img src="../img/bball.jpg" alt="basketball">
-</div>
+<img src="../img/bball.jpg" alt="basketball">
