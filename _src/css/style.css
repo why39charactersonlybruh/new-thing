@@ -1,14 +1,13 @@
 body{
      margin: 0;
      font-family: 'Times New Roman', Times, serif;
-     background-color: black;
-     color: aliceblue;
+     background-color: ghostwhite;
      text-align: center;
      padding-top: 1rem;
 }
 ul{
      display: flex;
-     background-color: cornsilk; 
+     background-color: coral; 
      align-items: center;
      font-size: x-large;
      background-size: cover;
@@ -35,7 +34,7 @@ h1{
      padding-top: 8in;
 }
 .basketball{
-     padding-top: 2rem;
+     padding-top: 2;
      width: 15%;
      border-radius: 50%;
 }
