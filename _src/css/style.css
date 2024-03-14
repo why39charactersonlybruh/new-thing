@@ -7,10 +7,10 @@ body{
 }
 header{
      display: flex;
-     padding: 5vw 5vw;
-     background-color: blanchedalmond;  
+     padding: 1vw 1vw;
+     background-color: crimson;  
      align-items: center;
-     font-size: larger;
+     font-size: large;
      background-size: cover;  
 }
 h1{
