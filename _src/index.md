@@ -8,7 +8,7 @@ layout: "page.njk"
 This is a page that I made with eleventy
 
 <div class="fax">
-Random Basketball Facts
+<p>Random Basketball Facts</p>
 
 <ul>James Naismith created basketball in 1891, he is canadian.</ul>
 <ul>Dennis Rodman once illegally married himself illegally.</ul>
