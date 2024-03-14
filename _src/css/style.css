@@ -5,19 +5,16 @@ body{
      text-align: center;
      padding-top: 1rem;
 }
-header{
+ul{
      display: flex;
      background-color: crimson;  
      align-items: center;
      font-size: x-large;
      background-size: cover;
 }
-header a{
-     text-decoration: none;
-     color:azure;
-     padding-left: 0.5vw;
-     padding-right: 0.5vw;
- }
+li{
+     float: left;
+}
 h1{
      font-size: 5rem;
 }
