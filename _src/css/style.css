@@ -11,7 +11,9 @@ header{
      background-color: crimson;  
      align-items: center;
      font-size: large;
-     background-size: cover;  
+     background-size: cover;
+     justify-content: center;
+     background-size: cover; 
 }
 header a{
      text-decoration: none;
