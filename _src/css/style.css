@@ -7,13 +7,11 @@ body{
 }
 header{
      display: flex;
-     padding: 1vw 1vw;
+     padding: 0;
      background-color: crimson;  
      align-items: center;
-     font-size: large;
+     font-size: x-large;
      background-size: cover;
-     justify-content: center;
-     background-size: cover; 
 }
 header a{
      text-decoration: none;
