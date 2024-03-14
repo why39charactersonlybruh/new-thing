@@ -6,8 +6,9 @@ body{
      padding-top: 1rem;
 }
 header{
-     float: left;
+     display: flex;
      background-color: crimson;  
+     align-items: center;
      font-size: x-large;
      background-size: cover;
 }
