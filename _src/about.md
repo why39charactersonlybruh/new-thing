@@ -11,5 +11,3 @@ layout: "page.njk"
 <div class="hello">
      <img src="bball.jpeg" alt="basketball">
 </div>
-
-## This is heading 2
