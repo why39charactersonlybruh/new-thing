@@ -5,6 +5,9 @@ body{
      text-align: center;
      padding-top: 1rem;
 }
+header{
+     display: flex;
+}
 h1{
      font-size: 5rem bold;
 }
